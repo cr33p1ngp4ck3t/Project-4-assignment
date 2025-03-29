@@ -1,7 +1,7 @@
 def double(num: int):
     return num * 2
 
-# There is no need to edit code beyond this point
+ 
 
 def main():
     num = int(input("Enter a number: "))

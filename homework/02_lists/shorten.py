@@ -5,7 +5,7 @@ def shorten(lst):
         last_elem = lst.pop()
         print(last_elem)
 
-# There is no need to edit code beyond this point
+ 
 
 def get_lst():
     """

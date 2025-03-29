@@ -5,8 +5,6 @@ def get_user_info():
     
     return first_name, last_name, email_address
 
-########## No need to edit code past this point :) ##########
-
 def main():
     user_data = get_user_info()
     print("Received the following user data:", user_data)

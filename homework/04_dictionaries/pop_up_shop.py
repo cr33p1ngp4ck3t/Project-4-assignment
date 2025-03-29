@@ -10,7 +10,7 @@ def main():
     print("Your total is $" + str(total_cost))
 
 
-# There is no need to edit code beyond this point
+ 
 
 if __name__ == '__main__':
     main()

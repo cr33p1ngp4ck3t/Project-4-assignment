@@ -4,10 +4,8 @@ def main():
 	if stock == 0:
 		print("This fruit is not in stock.")
 	else:
-		print("This fruit is in stock! Here is how many:")
-		print(stock)
+		print(f"This fruit is in stock! Here is how many: {stock}")
 
-# There is no need to edit code beyond this point
 
 def num_in_stock(fruit):
 	"""
@@ -20,7 +18,6 @@ def num_in_stock(fruit):
 	if fruit == 'pear':
 		return 1000
 	else:
-		# this fruit is not in stock.
 		return 0
 
 

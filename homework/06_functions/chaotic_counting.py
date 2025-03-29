@@ -9,7 +9,7 @@ def chaotic_counting():
             return # this ends the function execution, so we'll get back to the main() function!
         print(curr_num)
 
-# There is no need to edit code beyond this point
+ 
 
 def done():
     """ Returns True with a probability of DONE_LIKELIHOOD """

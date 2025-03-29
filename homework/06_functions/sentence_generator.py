@@ -12,7 +12,7 @@ def make_sentence(word, part_of_speech):
         # part_of_speech is invalid (not 0, 1, or 2)
         print("Part of speech must be 0, 1, or 2! Can't make a sentence.")
 
-# There is no need to edit code beyond this point
+ 
 
 def main():
     word :  str = input("Please type a noun, verb, or adjective: ")

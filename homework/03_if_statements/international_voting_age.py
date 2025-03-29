@@ -25,7 +25,7 @@ def main():
         print("You cannot vote in Mayengua where the voting age is " + str(MAYENGUA_AGE) + ".")
 
 
-# There is no need to edit code beyond this point
+ 
 
 if __name__ == '__main__':
     main()

@@ -14,7 +14,7 @@ def is_odd(value: int):
     return remainder == 1
 
 
-# There is no need to edit code beyond this point
+ 
 
 if __name__ == '__main__':
     main()
